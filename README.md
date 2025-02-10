@@ -1,4 +1,4 @@
-Music Transcription System
+#Music Transcription System
 Project Overview
 The Music Transcription System is designed to analyze monophonic audio inputs and generate real-time musical accompaniments. It utilizes an FPGA-based hardware platform, specifically the PYNQ-Z2 board, to ensure efficient signal processing with minimal latency. By leveraging advanced signal processing techniques, the system extracts key musical features such as pitch, rhythm, melody, and harmony from input audio and translates them into structured musical representations.
 
